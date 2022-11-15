@@ -13,7 +13,7 @@
 	</head >
 	        <a href="ata/home.html" id=bota1pos> Sobre </a>
 		<a href="secreta.html" >
-    <center><img src="ata/home.png" height="100" width="100"></center>
+    <center><img src="ata\home.png" height="100" width="100"></center>
 </a>
 
 		
